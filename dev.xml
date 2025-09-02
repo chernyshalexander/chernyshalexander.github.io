@@ -1,0 +1,15 @@
+<extensions>
+    <details>
+        <title lang="EN">yandex plugin repository</title>
+    </details>
+    <plugins>
+        <plugin name="Staroe" version="0.0.1" minTarget="7.9" maxTarget="*">
+            <title lang="EN">yandex</title>
+            <desc lang="EN">Play yandex music</desc>
+            <category>radio</category>            
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.0.1/YM.zip</url>
+            <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
+            <sha>173940b05def8f6aacf4a1e94bdfa151a30d70ca</sha>
+            <creator>Alexander Chernysh</creator></plugin>
+    </plugins>
+</extensions>
