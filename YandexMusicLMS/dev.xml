@@ -3,7 +3,7 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="Staroe" version="0.0.1" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.0.1" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">Play yandex music</desc>
             <category>radio</category>            
