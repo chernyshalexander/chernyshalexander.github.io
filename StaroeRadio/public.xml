@@ -3,13 +3,13 @@
         <title lang="EN">Staroe Radio plugin repository</title>
     </details>
     <plugins>
-        <plugin name="Staroe" version="0.5.3" minTarget="7.9" maxTarget="*">
+        <plugin name="Staroe" version="0.5.4" minTarget="7.9" maxTarget="*">
             <title lang="EN">Staroe</title>
             <desc lang="EN">Play radio channels from Staroe Radio</desc>
             <category>radio</category>            
-            <url>https://github.com/chernyshalexander/Staroeradio/releases/download/v0.5.3/Staroe.zip</url>
+            <url>https://github.com/chernyshalexander/Staroeradio/releases/download/v0.5.4/Staroe.zip</url>
             <link>https://github.com/chernyshalexander/Staroeradio</link>
-            <sha>bd3b16615dd6d7383546d73bb2ba91b23f6a534e</sha>
+            <sha>98e2d70460c02046626701d24ce76098a40c0bc7</sha>
             <creator>Alexander Chernysh</creator></plugin>
     </plugins>
 </extensions>
