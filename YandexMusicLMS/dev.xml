@@ -3,13 +3,13 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.52" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.53" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">Play yandex music</desc>
             <category>radio</category>            
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.52/YM.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.53/YM.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>ff25540f629b73bbd04f7d9c1c959bfe29bcd8ce</sha>
+            <sha>996c91957b2bfb54e0638dc96494d78d444ccb33</sha>
             <creator>Alexander Chernysh</creator></plugin>
     </plugins>
 </extensions>
