@@ -9,7 +9,7 @@
             <category>radio</category>            
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.53/YM.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>996c91957b2bfb54e0638dc96494d78d444ccb33</sha>
+            <sha>0de7837e77d69d15176ae95706633dcd27ebae82</sha>
             <creator>Alexander Chernysh</creator></plugin>
     </plugins>
 </extensions>
