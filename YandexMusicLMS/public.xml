@@ -10,10 +10,9 @@
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.63/YM.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
-            <sha>06771c6459481f7bb310ca2820cd8775e190980b</sha>
+            <sha>2da0ce80036dd53367c0f1e9fbb131ac6c2dc313</sha>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
        </plugin>
     </plugins>
 </extensions>   
-   
