@@ -6,10 +6,13 @@
         <plugin name="yandex" version="0.771" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">Play yandex music</desc>
-            <category>radio</category>            
+            <category>musicservices</category>            
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.771/YM.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
+            <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
             <sha>af900540a035bb58cbad87679c53d0879249786e</sha>
-            <creator>Alexander Chernysh</creator></plugin>
+            <creator>Alexander Chernysh</creator>
+            <email>chernysh.a@gmail.com</email>
+       </plugin>
     </plugins>
 </extensions>   
