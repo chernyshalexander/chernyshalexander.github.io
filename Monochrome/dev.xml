@@ -3,13 +3,14 @@
         <title lang="EN">monochrome plugin repository</title>
     </details>
     <plugins>
-        <plugin name="monochrome" version="0.1" minTarget="7.9" maxTarget="*">
-            <title lang="EN">monochrome</title>
+        <plugin name="Monochrome" version="0.1" minTarget="7.9" maxTarget="*">
+            <title lang="EN">Monochrome</title>
             <desc lang="EN">Monochrome UI plugin for Logitech Media Server</desc>
-            <url>https://github.com/chernyshalexander/lms-monochrome/releases/download/v0.1/monochrome.zip</url>
+            <url>https://github.com/chernyshalexander/lms-monochrome/releases/download/v0.1/Monochrome.zip</url>
             <link>https://github.com/chernyshalexander/lms-monochrome</link>
             <sha>75fa9207fc2e7268fa76b0745d992eefc6721022</sha>
             <creator>Alexander Chernysh</creator>
         </plugin>
     </plugins>
-</extensions>   
+</extensions>
+
