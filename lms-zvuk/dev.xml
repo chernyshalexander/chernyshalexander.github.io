@@ -1,10 +1,10 @@
 <extensions>
     <details>
-        <title lang="EN">monochrome plugin repository</title>
+        <title lang="EN">Zvuk plugin repository</title>
     </details>
     <plugins>
         <plugin name="Zvuk" version="0.1" minTarget="7.9" maxTarget="*">
-            <title lang="EN">Monochrome</title>
+            <title lang="EN">Zvuk</title>
             <desc lang="EN">Zvuk.com plugin for Logitech Media Server</desc>
             <url>https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.1/lms-zvuk.zip</url>
             <link>https://github.com/chernyshalexander/lms-zvuk</link>
