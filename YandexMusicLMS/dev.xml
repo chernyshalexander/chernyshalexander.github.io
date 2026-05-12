@@ -8,6 +8,7 @@
             <desc lang="EN">Play yandex music</desc>
             <category>radio</category>            
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.777/YM.zip</url>
+            <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon> 
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <sha>8c5db1be9b4c4321175e78a26440d9b0aa36a987</sha>
             <creator>Alexander Chernysh</creator></plugin>
