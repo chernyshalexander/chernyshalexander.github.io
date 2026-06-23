@@ -11,6 +11,10 @@
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <sha>550ec1efb7c0778ab17967ff9c88384a18b49769</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
+            <changes lang="EN">Added Yandex Music Waves (Vibes) search support in global search
+New "Show My Vibe in Search" setting to toggle wave search results
+Extended debug logging for all wave menu sources
+Extended debug logging for ynison protocol</changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
          </plugin>
