@@ -3,20 +3,18 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.781" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.782" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
             <category>musicservices</category>
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.781/YM.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.782/YM.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>550ec1efb7c0778ab17967ff9c88384a18b49769</sha>
+            <sha>f83b9eeda73daf4a69e023cafbaa82272bf026e7</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
-            <changes lang="EN">Added Yandex Music Waves (Vibes) search support in global search
-New "Show My Vibe in Search" setting to toggle wave search results
-Extended debug logging for all wave menu sources
-Extended debug logging for ynison protocol</changes>
+             <changes lang="EN">refactor: Use Deezer/Tidal approach for artist picture caching</changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
          </plugin>
     </plugins>
 </extensions>   
+
