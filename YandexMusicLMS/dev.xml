@@ -11,6 +11,10 @@
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <sha>2b848d1c0481ac9fca7331e533777843d1652d23</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
+            <changes lang="EN">fix: Add track numbers to scanned albums;
+                               fix: Use trackPosition.index for TRACKNUM in scanned albums;
+                               fix: Sort album/audiobook tracks numerically by trackNumber
+            </changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
          </plugin>
