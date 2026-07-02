@@ -9,7 +9,7 @@
             <category>musicservices</category>
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.783/ym0783.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>2b848d1c0481ac9fca7331e533777843d1652d23</sha>
+            <sha>3b29f9c17b639a77bfe9a966c4207b1a7ea150a5</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
             <changes lang="EN">fix: Add track numbers to scanned albums;
                                fix: Use trackPosition.index for TRACKNUM in scanned albums;
