@@ -1,1 +1,16 @@
-
+<extensions>
+    <details>
+        <title lang="EN">Zvuk plugin repository</title>
+    </details>
+    <plugins>
+        <plugin name="Seva" version="0.2.0" minTarget="7.9" maxTarget="*">
+            <title lang="EN">Seva</title>
+            <desc lang="EN">Seva.ru plugin for Logitech Media Server</desc>
+            <url>https://github.com/chernyshalexander/Seva/releases/download/v0.2.0/Seva.zip</url>
+            <link>https://github.com/chernyshalexander/Seva</link>
+            <sha>bc62eed47c15b8af77df9b1f8b1e7425c75b9f1e</sha>
+            <creator>Alexander Chernysh</creator>
+        </plugin>
+    </plugins>
+</extensions>
+                 
