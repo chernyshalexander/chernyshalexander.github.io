@@ -3,12 +3,12 @@
         <title lang="EN">Zvuk plugin repository</title>
     </details>
     <plugins>
-        <plugin name="Zvuk" version="0.2.2" minTarget="7.9" maxTarget="*">
+        <plugin name="Zvuk" version="0.3.0" minTarget="7.9" maxTarget="*">
             <title lang="EN">Zvuk</title>
             <desc lang="EN">Zvuk.com plugin for Logitech Media Server</desc>
-            <url>https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.2.2/lms-zvuk.zip</url>
+            <url>https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.3.0/lms-zvuk.zip</url>
             <link>https://github.com/chernyshalexander/lms-zvuk</link>
-            <sha>1b482a8192e1e0bb9a2bf04cc1ec1d03f4a88ec3</sha>
+            <sha>bf5198863380b2dca5290cb113a66d941c9f050e</sha>
             <creator>Alexander Chernysh</creator>
         </plugin>
     </plugins>
