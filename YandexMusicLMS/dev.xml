@@ -3,15 +3,15 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.785" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.786" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
             <category>musicservices</category>
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.785/ym0785.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.786/ym0786.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>e9b3e113a86fa73bd496f1fe4bb9097241eabbd7</sha>
+            <sha>22bacd8876d8f5367f24f2a2618274aca6e36484</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
-            <changes lang="EN">fix: fix: Resume/seek of MP4-container tracks - fetch from byte 0 and skip in demuxer;
+            <changes lang="EN">fix: ip3k players (Boom, Transporter) restart the track on mp4 resume instead of skip-resume;
             </changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
