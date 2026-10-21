@@ -9,9 +9,9 @@
 </desc>
             <url>https://github.com/chernyshalexander/lms-zvuk/releases/download/v0.5.0/lms-zvuk.zip</url>
             <link>https://github.com/chernyshalexander/lms-zvuk</link>
+            <icon>https://chernyshalexander.github.io/lms-zvuk/zvuk_svg.png</icon>
             <sha>2864de2497ebacd0e0305a196638f1a21bbd91a0</sha>
             <creator>Alexander Chernysh</creator>
         </plugin>
     </plugins>
 </extensions>
-
