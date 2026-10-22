@@ -9,7 +9,7 @@
             <category>musicservices</category>
             <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.786/ym0786.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>ac499a73e162f114d8e0532529a5611cdbd48d13</sha>
+            <sha>22bacd8876d8f5367f24f2a2618274aca6e36484</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
             <changes lang="EN">fix(ynison): protocol stabilization and critical bug fixes;
             </changes>
