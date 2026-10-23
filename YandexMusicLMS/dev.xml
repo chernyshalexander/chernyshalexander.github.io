@@ -3,15 +3,15 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.789" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.790" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
             <category>musicservices</category>
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.789/ym0789.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.790/ym0790.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>3049eee7a1345d56c9fbc29c70e9179d127026d1</sha>
+            <sha>cf08b539f23fbb0863c5a411200573a6c3a393ff</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
-            <changes lang="EN">minor improvements;
+            <changes lang="EN">fix Vibe Wheel index shift;
             </changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
