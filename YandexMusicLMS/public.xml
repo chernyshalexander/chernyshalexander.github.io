@@ -3,21 +3,17 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.84" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.83" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
             <category>musicservices</category>            
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.84/ym084.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.83/ym083.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
-            <sha>d464d34d775961ffd4fa1d5522a26a457f68e83e</sha>
-            <changes lang="EN">History and Audiobooks: Added a listening history section, progress auto-save, and a 1-click quick resume button to pick up right where you left off.
-Stable Resume and Seek: Improved seek stability and playback resumption for encrypted streams (AAC/FLAC), eliminating audio drops, freezes, and distortions.
-Vibe Wheel: Implemented dynamic redesign of the vibe wheel when changing moods or genres.
-Minor bug fixes.
-            </changes>
+            <sha>15ea5e289240a7b01cb2eaa20b12c499a9646340</sha>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
        </plugin>
     </plugins>
-</extensions>
+</extensions>   
+
