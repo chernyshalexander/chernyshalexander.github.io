@@ -3,13 +3,13 @@
         <title lang="EN">yandex plugin repository</title>
     </details>
     <plugins>
-        <plugin name="yandex" version="0.792" minTarget="7.9" maxTarget="*">
+        <plugin name="yandex" version="0.793" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
             <category>musicservices</category>
-            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.792/ym0792.zip</url>
+            <url>https://github.com/chernyshalexander/YandexMusicLMS/releases/download/v0.793/ym0793.zip</url>
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
-            <sha>85efb47f8fa96a6a3372a5462ef968a6c77e2f12</sha>
+            <sha>8edc49b544648c6a009269fbb9a2d838a293c8f5</sha>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
