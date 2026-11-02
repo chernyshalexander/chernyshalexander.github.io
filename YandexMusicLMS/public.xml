@@ -11,13 +11,9 @@
             <link>https://github.com/chernyshalexander/YandexMusicLMS</link>
             <icon>https://chernyshalexander.github.io/YandexMusicLMS/yandex.png</icon>
             <sha>4e97ba19dc18309af6a61f2fc5d9896e874ea441</sha>
-            <changes lang="EN">History & Audiobooks: Added a listening history section, progress auto-save, and a 1-click quick resume button to pick up right where you left off.
-Stable Resume & Seek: Improved seek stability and playback resumption for encrypted streams (AAC/FLAC), eliminating audio drops, freezes, and distortions.
-Vibe Wheel: Implemented dynamic redesign of the vibe wheel when changing moods or genres.
-Minor bug fixes.
-            </changes>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
        </plugin>
     </plugins>
 </extensions>
+
