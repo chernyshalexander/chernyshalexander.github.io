@@ -1,0 +1,16 @@
+<extensions>
+    <details>
+        <title lang="EN">lms-health plugin repository</title>
+    </details>
+    <plugins>
+        <plugin name="Lms-Health" version="0.0.1" minTarget="7.9" maxTarget="*">
+            <title lang="EN">lms-health</title>
+            <desc lang="EN">lms-health </desc>
+            <url>https://github.com/chernyshalexander/lms-health/releases/download/v0.0.1/lms-health.zip</url>
+            <link>https://github.com/chernyshalexander/lms-health</link>
+            <icon>https://chernyshalexander.github.io/lms-health/health.png</icon>
+            <sha>3dbd27d235e667d8e0ec3ccf3f39999d3c92d675</sha>
+            <creator>Alexander Chernysh</creator>
+        </plugin>
+    </plugins>
+</extensions>
