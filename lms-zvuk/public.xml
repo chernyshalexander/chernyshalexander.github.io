@@ -12,6 +12,7 @@
             <icon>https://chernyshalexander.github.io/lms-zvuk/zvuk_svg.png</icon>
             <sha>61187dca3e5512579fbfd16a1a95e56dc43873e3</sha>
             <creator>Alexander Chernysh</creator>
+            <category>musicservices</category>
         </plugin>
     </plugins>
 </extensions>
