@@ -15,7 +15,6 @@
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
         </plugin>
-    </plugins> 
         <plugin name="yandex" version="0.85" minTarget="7.9" maxTarget="*">
             <title lang="EN">yandex</title>
             <desc lang="EN">A plugin to play Yandex Music on Lyrion Music Server (LMS).</desc>
