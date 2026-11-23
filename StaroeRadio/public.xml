@@ -9,10 +9,9 @@
             <category>radio</category>            
             <url>https://github.com/chernyshalexander/Staroeradio/releases/download/v0.6.1/Staroe.zip</url>
             <link>https://github.com/chernyshalexander/Staroeradio</link>
-            <sha>44aa9ecc479f3477820b311d5bef0966c47f1df4</sha>
+            <sha>b31e1b5d6a9c8ff2c1668871f069385b1d1c9348</sha>
             <creator>Alexander Chernysh</creator>
             <email>chernysh.a@gmail.com</email>
       </plugin>
     </plugins>
 </extensions>
-                         
